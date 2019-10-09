@@ -1,0 +1,9 @@
+name: TrashGUI
+version: 1.0
+api: 3.0.0
+main: phuongaz\TrashGUI\Main
+
+commands:
+  trash:
+    description: 'Open inventory trash'
+    default: true
